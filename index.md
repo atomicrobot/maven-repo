@@ -1,3 +1,7 @@
+---
+title: Atomic Robot Maven Repository
+---
+
 # Atomic Robot Maven Repository
 Add the following repositories as needed to the `<repositories> ... </repositories>` element in your project's `pom.xml`.
 
