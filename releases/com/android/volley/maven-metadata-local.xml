@@ -3,14 +3,15 @@
   <groupId>com.android</groupId>
   <artifactId>volley</artifactId>
   <versioning>
-    <release>1.0-1ef78a</release>
+    <release>1.0-d4abbd</release>
     <versions>
       <version>1.0-3334f15</version>
       <version>1.0-04884d3</version>
       <version>1.0_6d1e37</version>
       <version>1.0-fc2207</version>
       <version>1.0-1ef78a</version>
+      <version>1.0-d4abbd</version>
     </versions>
-    <lastUpdated>20140528212637</lastUpdated>
+    <lastUpdated>20150127192443</lastUpdated>
   </versioning>
 </metadata>
